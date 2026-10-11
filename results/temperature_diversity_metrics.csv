@@ -1,0 +1,13 @@
+model,temperature,avg_distinct_1,avg_distinct_2,avg_repetition_3,avg_consecutive_rep
+Simple_RNN,0.2,0.7714,0.9633,0.0,0.0147
+Simple_RNN,0.7,0.8286,0.978,0.0076,0.0
+Simple_RNN,1.2,0.8714,0.9927,0.0,0.0
+Bidirectional_RNN,0.2,0.8,0.9853,0.0,0.0
+Bidirectional_RNN,0.7,0.8428,0.9706,0.0076,0.0
+Bidirectional_RNN,1.2,0.8714,1.0,0.0,0.0
+LSTM,0.2,0.65,0.8235,0.0833,0.0
+LSTM,0.7,0.8143,0.9853,0.0,0.0073
+LSTM,1.2,0.8714,0.9927,0.0,0.0073
+GRU,0.2,0.7429,0.9044,0.0682,0.0147
+GRU,0.7,0.8214,0.9927,0.0,0.0073
+GRU,1.2,0.8928,0.9927,0.0,0.0
